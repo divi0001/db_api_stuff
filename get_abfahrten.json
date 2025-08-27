@@ -1,0 +1,214 @@
+{
+  "entries": [
+    {
+      "bahnhofsId": "8010159",
+      "zeit": "2025-08-18T12:01:00",
+      "gleis": "7",
+      "ueber": [
+        "Halle(Saale)Hbf",
+        "Berlin Hbf",
+        "Berlin Gesundbrunnen"
+      ],
+      "journeyId": "2|#VN#1#ST#1755118759#PI#0#ZI#324578#TA#0#DA#180825#1S#8000096#1T#717#LS#8011102#LT#1331#PU#80#RT#1#CA#DPF#ZE#1240#ZB#FLX          1240#PC#2#FR#8000096#FT#717#TO#8011102#TT#1331#",
+      "meldungen": [],
+      "verkehrmittel": {
+        "name": "FLX 1240",
+        "linienNummer": "10",
+        "kurzText": "FLX",
+        "mittelText": "FLX 1240",
+        "langText": "FLX 1240",
+        "produktGattung": "IR"
+      },
+      "terminus": "Berlin Hbf"
+    },
+    {
+      "bahnhofsId": "8010159",
+      "zeit": "2025-08-18T12:06:00",
+      "gleis": "9",
+      "ueber": [
+        "Halle(Saale)Hbf",
+        "Köthen",
+        "Magdeburg Hbf",
+        "Helmstedt",
+        "Braunschweig Hbf",
+        "Hannover Hbf",
+        "Nienburg(Weser)",
+        "Emden Hbf"
+      ],
+      "journeyId": "2|#VN#1#ST#1755118759#PI#0#ZI#240729#TA#1#DA#180825#1S#8010205#1T#1142#LS#8001768#LT#1738#PU#80#RT#1#CA#IC#ZE#2038#ZB#IC           2038#PC#1#FR#8010205#FT#1142#TO#8001768#TT#1738#",
+      "meldungen": [],
+      "verkehrmittel": {
+        "name": "IC 2038",
+        "linienNummer": "56",
+        "kurzText": "IC",
+        "mittelText": "IC 2038",
+        "langText": "IC 2038",
+        "produktGattung": "EC_IC"
+      },
+      "terminus": "Emden Hbf"
+    },
+    {
+      "bahnhofsId": "8010159",
+      "zeit": "2025-08-18T12:15:00",
+      "gleis": "6",
+      "ueber": [
+        "Halle(Saale)Hbf",
+        "Erfurt Hbf",
+        "Frankfurt(Main)Hbf"
+      ],
+      "journeyId": "2|#VN#1#ST#1755118759#PI#0#ZI#250849#TA#0#DA#180825#1S#8010338#1T#804#LS#8000105#LT#1456#PU#80#RT#1#CA#ICE#ZE#839#ZB#ICE           839#PC#0#FR#8010338#FT#804#TO#8000105#TT#1456#",
+      "meldungen": [],
+      "verkehrmittel": {
+        "name": "ICE 839",
+        "linienNummer": "15",
+        "kurzText": "ICE",
+        "mittelText": "ICE 839",
+        "langText": "ICE 839",
+        "produktGattung": "ICE"
+      },
+      "terminus": "Frankfurt(Main)Hbf"
+    },
+    {
+      "bahnhofsId": "8010159",
+      "zeit": "2025-08-18T12:21:00",
+      "gleis": "7",
+      "ueber": [
+        "Halle(Saale)Hbf",
+        "Erfurt Hbf",
+        "Nürnberg Hbf",
+        "München Hbf"
+      ],
+      "journeyId": "2|#VN#1#ST#1755118759#PI#0#ZI#235722#TA#0#DA#180825#1S#8011102#1T#1046#LS#8000261#LT#1519#PU#80#RT#1#CA#ICE#ZE#1107#ZB#ICE          1107#PC#0#FR#8011102#FT#1046#TO#8000261#TT#1519#",
+      "meldungen": [],
+      "verkehrmittel": {
+        "name": "ICE 1107",
+        "linienNummer": "8",
+        "kurzText": "ICE",
+        "mittelText": "ICE 1107",
+        "langText": "ICE 1107",
+        "produktGattung": "ICE"
+      },
+      "terminus": "München Hbf"
+    },
+    {
+      "bahnhofsId": "8010159",
+      "zeit": "2025-08-18T12:40:00",
+      "gleis": "7",
+      "ueber": [
+        "Halle(Saale)Hbf",
+        "Berlin Südkreuz",
+        "Berlin Hbf",
+        "Berlin Gesundbrunnen"
+      ],
+      "journeyId": "2|#VN#1#ST#1755118759#PI#0#ZI#237687#TA#0#DA#180825#1S#8000261#1T#838#LS#8011102#LT#1401#PU#80#RT#1#CA#ICE#ZE#1694#ZB#ICE          1694#PC#0#FR#8000261#FT#838#TO#8011102#TT#1401#",
+      "meldungen": [],
+      "verkehrmittel": {
+        "name": "ICE 1694",
+        "linienNummer": "29",
+        "kurzText": "ICE",
+        "mittelText": "ICE 1694",
+        "langText": "ICE 1694",
+        "produktGattung": "ICE"
+      },
+      "terminus": "Berlin Gesundbrunnen"
+    },
+    {
+      "bahnhofsId": "8010159",
+      "zeit": "2025-08-18T12:40:00",
+      "gleis": "7",
+      "ueber": [
+        "Halle(Saale)Hbf",
+        "Berlin Südkreuz",
+        "Berlin Hbf",
+        "Berlin Gesundbrunnen"
+      ],
+      "journeyId": "2|#VN#1#ST#1755118759#PI#0#ZI#407791#TA#0#DA#180825#1S#8103000#1T#613#LS#8011102#LT#1401#PU#80#RT#1#CA#ICE#ZE#94#ZB#ICE            94#PC#0#FR#8103000#FT#613#TO#8011102#TT#1401#",
+      "meldungen": [],
+      "verkehrmittel": {
+        "name": "ICE 94",
+        "linienNummer": "91",
+        "kurzText": "ICE",
+        "mittelText": "ICE 94",
+        "langText": "ICE 94",
+        "produktGattung": "ICE"
+      },
+      "terminus": "Berlin Gesundbrunnen"
+    },
+    {
+      "bahnhofsId": "8010159",
+      "zeit": "2025-08-18T12:44:00",
+      "gleis": "6",
+      "ueber": [
+        "Halle(Saale)Hbf",
+        "Erfurt Hbf",
+        "Bad Hersfeld",
+        "Fulda",
+        "Frankfurt(Main)Süd",
+        "Darmstadt Hbf",
+        "Heidelberg Hbf",
+        "Basel Bad Bf"
+      ],
+      "journeyId": "2|#VN#1#ST#1755118759#PI#0#ZI#324667#TA#0#DA#180825#1S#8098160#1T#1128#LS#8000026#LT#1914#PU#80#RT#1#CA#DPF#ZE#1245#ZB#FLX          1245#PC#2#FR#8098160#FT#1128#TO#8000026#TT#1914#",
+      "meldungen": [],
+      "verkehrmittel": {
+        "name": "FLX 1245",
+        "linienNummer": "10",
+        "kurzText": "FLX",
+        "mittelText": "FLX 1245",
+        "langText": "FLX 1245",
+        "produktGattung": "IR"
+      },
+      "terminus": "Basel Bad Bf"
+    },
+    {
+      "bahnhofsId": "8010159",
+      "zeit": "2025-08-18T12:52:00",
+      "gleis": "8",
+      "ueber": [
+        "Halle(Saale)Hbf",
+        "Erfurt Hbf",
+        "Bamberg",
+        "Nürnberg Hbf",
+        "Donauwörth",
+        "Augsburg Hbf",
+        "München-Pasing",
+        "München Hbf"
+      ],
+      "journeyId": "2|#VN#1#ST#1755118759#PI#0#ZI#248751#TA#0#DA#180825#1S#8000199#1T#742#LS#8000261#LT#1642#PU#80#RT#1#CA#ICE#ZE#705#ZB#ICE           705#PC#0#FR#8000199#FT#742#TO#8000261#TT#1642#",
+      "meldungen": [],
+      "verkehrmittel": {
+        "name": "ICE 705",
+        "linienNummer": "18",
+        "kurzText": "ICE",
+        "mittelText": "ICE 705",
+        "langText": "ICE 705",
+        "produktGattung": "ICE"
+      },
+      "terminus": "München Hbf"
+    },
+    {
+      "bahnhofsId": "8010159",
+      "zeit": "2025-08-18T12:55:00",
+      "gleis": "9",
+      "ueber": [
+        "Halle(Saale)Hbf",
+        "Leipzig/Halle Flughafen",
+        "Leipzig Hbf",
+        "Riesa",
+        "Dresden-Neustadt",
+        "Dresden Hbf"
+      ],
+      "journeyId": "2|#VN#1#ST#1755118759#PI#0#ZI#241052#TA#0#DA#180825#1S#8000206#1T#605#LS#8010085#LT#1439#PU#80#RT#1#CA#IC#ZE#2443#ZB#IC           2443#PC#1#FR#8000206#FT#605#TO#8010085#TT#1439#",
+      "meldungen": [],
+      "verkehrmittel": {
+        "name": "IC 2443",
+        "linienNummer": "55",
+        "kurzText": "IC",
+        "mittelText": "IC 2443",
+        "langText": "IC 2443",
+        "produktGattung": "EC_IC"
+      },
+      "terminus": "Dresden Hbf"
+    }
+  ]
+}
